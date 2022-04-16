@@ -1,1 +1,3 @@
 # code-snippets
+
+Not much here yet... I'll update this every once in a while when I have ideas for useful little scripts...
